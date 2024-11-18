@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|e:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab4_1\\lab4_1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|solutionrelative:lab4_1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|e:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab4_1\\lab4_1\\injection\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|solutionrelative:lab4_1\\injection\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|e:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab4_1\\lab4_1\\modelsview\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|solutionrelative:lab4_1\\modelsview\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|e:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab4_1\\lab4_1\\modelsview\\bookcreateupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|solutionrelative:lab4_1\\modelsview\\bookcreateupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|e:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab4_1\\lab4_1\\modelsview\\authorupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|solutionrelative:lab4_1\\modelsview\\authorupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|e:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab4_1\\lab4_1\\modelsupdate\\bookupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|solutionrelative:lab4_1\\modelsupdate\\bookupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|e:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab4_1\\lab4_1\\modelsview\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|solutionrelative:lab4_1\\modelsview\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|e:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab4_1\\lab4_1\\modelsview\\authorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|solutionrelative:lab4_1\\modelsview\\authorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|e:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab4_1\\lab4_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|solutionrelative:lab4_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|e:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab4_1\\lab4_1\\modelsupdate\\authorupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|solutionrelative:lab4_1\\modelsupdate\\authorupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|e:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab4_1\\lab4_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|solutionrelative:lab4_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|e:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab4_1\\lab4_1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|solutionrelative:lab4_1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|e:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab4_1\\lab4_1\\models\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69789C79-8D0A-4EED-8DBA-1F1BBE53BF33}|Lab4_1\\Lab4_1.csproj|solutionrelative:lab4_1\\models\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 48,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Lab4_1\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Lab4_1\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAADwv1YAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:10:27.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookCreateUpdateViewModel.cs",
+              "DocumentMoniker": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\ModelsView\\BookCreateUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "Lab4_1\\ModelsView\\BookCreateUpdateViewModel.cs",
+              "ToolTip": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\ModelsView\\BookCreateUpdateViewModel.cs",
+              "RelativeToolTip": "Lab4_1\\ModelsView\\BookCreateUpdateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:48:12.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\Injection\\BookService.cs",
+              "RelativeDocumentMoniker": "Lab4_1\\Injection\\BookService.cs",
+              "ToolTip": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\Injection\\BookService.cs",
+              "RelativeToolTip": "Lab4_1\\Injection\\BookService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:06:51.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\ModelsView\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Lab4_1\\ModelsView\\MappingProfile.cs",
+              "ToolTip": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\ModelsView\\MappingProfile.cs",
+              "RelativeToolTip": "Lab4_1\\ModelsView\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:26:27.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorUpdateViewModel.cs",
+              "DocumentMoniker": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\ModelsView\\AuthorUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "Lab4_1\\ModelsView\\AuthorUpdateViewModel.cs",
+              "ToolTip": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\ModelsView\\AuthorUpdateViewModel.cs",
+              "RelativeToolTip": "Lab4_1\\ModelsView\\AuthorUpdateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:39:54.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookUpdate.cs",
+              "DocumentMoniker": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\ModelsUpdate\\BookUpdate.cs",
+              "RelativeDocumentMoniker": "Lab4_1\\ModelsUpdate\\BookUpdate.cs",
+              "ToolTip": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\ModelsUpdate\\BookUpdate.cs",
+              "RelativeToolTip": "Lab4_1\\ModelsUpdate\\BookUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:09:41.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\ModelsView\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "Lab4_1\\ModelsView\\BookViewModel.cs",
+              "ToolTip": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\ModelsView\\BookViewModel.cs",
+              "RelativeToolTip": "Lab4_1\\ModelsView\\BookViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:47:28.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorViewModel.cs",
+              "DocumentMoniker": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\ModelsView\\AuthorViewModel.cs",
+              "RelativeDocumentMoniker": "Lab4_1\\ModelsView\\AuthorViewModel.cs",
+              "ToolTip": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\ModelsView\\AuthorViewModel.cs",
+              "RelativeToolTip": "Lab4_1\\ModelsView\\AuthorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:39:26.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4_1\\Program.cs",
+              "ToolTip": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\Program.cs",
+              "RelativeToolTip": "Lab4_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:24:21.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorUpdate.cs",
+              "DocumentMoniker": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\ModelsUpdate\\AuthorUpdate.cs",
+              "RelativeDocumentMoniker": "Lab4_1\\ModelsUpdate\\AuthorUpdate.cs",
+              "ToolTip": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\ModelsUpdate\\AuthorUpdate.cs",
+              "RelativeToolTip": "Lab4_1\\ModelsUpdate\\AuthorUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:25:11.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab4_1\\appsettings.json",
+              "ToolTip": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\appsettings.json",
+              "RelativeToolTip": "Lab4_1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T16:24:42.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Lab4_1\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Lab4_1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T16:14:01.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookStoreContext.cs",
+              "DocumentMoniker": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\Models\\BookStoreContext.cs",
+              "RelativeDocumentMoniker": "Lab4_1\\Models\\BookStoreContext.cs",
+              "ToolTip": "E:\\\u0443\u043D\u0456\u0432\u0435\u0440\\3 \u041A\u0423\u0420\u0421\\\u041A\u041F\u0417\\Lab4_1\\Lab4_1\\Models\\BookStoreContext.cs",
+              "RelativeToolTip": "Lab4_1\\Models\\BookStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:11:19.471Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 386,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
